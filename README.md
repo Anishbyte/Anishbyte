@@ -4,7 +4,7 @@
   <img src="https://gifsec.com/wp-content/uploads/2023/01/kirby-gif-5.gif" width="150">
 </p>
 
-<h2 align="center">Welcome to my GitHub profile~ OwO</h2>
+<h2 align="center">~Welcome to my GitHub profile~ OwO</h2>
 
 ---
 
